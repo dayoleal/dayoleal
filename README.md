@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dayoleal&show_icons=true" />
 </picture>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayoleal&layout=compact&langs_count=5&bg_color=ffffff&title_color=88c0d0&text_color=7f8c8d&icon_color=a3be8c&hide_border=true" width="48%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayoleal&layout=compact&langs_count=5&bg_color=ffffff&title_color=88c0d0&text_color=7f8c8d&icon_color=a3be8c&hide_border=true" width="30%" height="150"/>
 </div>
 
 ---
