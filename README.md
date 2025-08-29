@@ -4,9 +4,18 @@
 
 ---
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayoleal&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=a3be8c&text_color=7f8c8d&icon_color=88c0d0&hide_border=true" width="48%" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayoleal&layout=compact&langs_count=5&bg_color=ffffff&title_color=88c0d0&text_color=7f8c8d&icon_color=a3be8c&hide_border=true" width="48%" height="150" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dayoleal&show_icons=true&theme=transparent&hide_border=true&title_color=86D286&text_color=B8B8B8&icon_color=86D286"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayoleal&show_icons=true" />
+</picture>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayoleal&layout=compact&langs_count=5&bg_color=ffffff&title_color=88c0d0&text_color=7f8c8d&icon_color=a3be8c&hide_border=true" width="48%" height="150"/>
 </div>
 
 ---
