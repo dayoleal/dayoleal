@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B8D8B8&height=200&section=header&text=Dayo%20%20%20%20Leal&fontSize=40&fontColor=fff&animation=false&fontAlignY=30&desc=Information%20Systems%20Student%20@Mackenzie&descAlignY=50&descSize=18">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B8D8B8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+developer+in+training.;+Welcome!+🍃;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B8D8B8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+developer+in+training.;+Welcome!+;)](https://git.io/typing-svg)
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1czQ2N2wweTA0YzR3Yjh0enFyczE5azJsOGdnOTNqNzNpNnRkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lyuDkgZJ4OBO/giphy.gif" />
+<img align="right" height="290" width="370" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1czQ2N2wweTA0YzR3Yjh0enFyczE5azJsOGdnOTNqNzNpNnRkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lyuDkgZJ4OBO/giphy.gif" />
 
 ### ⚡ Tech Stack | Stack de Tecnologias
 
