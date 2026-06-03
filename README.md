@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=B8D8B8&size=28&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Dayo+👋;Full+Stack+Developer+in+Training;Building+with+React+%26+Next.js;Always+learning+something+new" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=B8D8B8&size=28&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Dayo+👋;iOS+Developer;Always+learning+something+new" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 - 🎓 Studying **Information Systems** at Universidade Presbiteriana Mackenzie
 - 🌱 Currently learning **Swift**, **Java** and **Spring Boot**
 - 💡 Passionate about building web applications and exploring new technologies
-- 🚀 Focused on evolving as a **Full Stack Developer**
+- 🚀 Focused on evolving as a **iOS Developer**
 
 ---
 
