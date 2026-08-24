@@ -42,18 +42,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dayoleal&theme=tokyonight&hide_border=true&stroke=B8D8B8&ring=86D286&fire=86D286&currStreakLabel=86D286&sideLabels=B8B8B8&dates=B8B8B8&background=00000000"
-    width="55%"
-    alt="GitHub Streak"
-  />
-</div>
-
----
-
 ## Connect with Me
 
 <p align="left">
